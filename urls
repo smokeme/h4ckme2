@@ -1,0 +1,9 @@
+POST: http://127.0.0.1:3000/articles/add
+GET: http://127.0.0.1:3000/articles
+POST: http://127.0.0.1:3000/functions/ping
+GET: http://127.0.0.1:3000/media
+POST: http://127.0.0.1:3000/register
+GET: http://127.0.0.1:3000/users/me
+GET: http://127.0.0.1:3000/users
+POST: http://127.0.0.1:3000/login
+GET: http://127.0.0.1:3000/logout
